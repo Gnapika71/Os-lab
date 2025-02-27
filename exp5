@@ -1,4 +1,4 @@
->##To illustrate concurrent execution of threads using pthread library.
+>###To illustrate concurrent execution of threads using pthread library.
 ```c
 #include <stdio.h>
 #include <stdlib.h>
