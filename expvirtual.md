@@ -157,6 +157,6 @@ int main() {
 
 ![screenshot](gnanu1.png)
 ![screenshot](gnanu2.png)
-![screenshot](gnanu3.png)
+
 
 
